@@ -1,12 +1,12 @@
 {
     "name": "@weblif/configure",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "zhangj <854363956@qq.com>",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "license": "MIT",
-    "peerDependencies": {
+    "dependencies": {
         "@babel/preset-env": "^7.16.11",
         "@babel/preset-react": "^7.16.7",
         "@typescript-eslint/eslint-plugin": "^5.20.0",
