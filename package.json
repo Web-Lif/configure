@@ -7,14 +7,14 @@
     },
     "license": "MIT",
     "dependencies": {
-        "@babel/preset-env": "^7.16.11",
-        "@babel/preset-react": "^7.16.7",
-        "@typescript-eslint/eslint-plugin": "^5.20.0",
-        "@typescript-eslint/parser": "^5.20.0",
+        "@babel/preset-env": "7.18.2",
+        "@babel/preset-react": "7.17.12",
+        "@typescript-eslint/eslint-plugin": "5.28.0",
+        "@typescript-eslint/parser": "5.28.0",
         "@testing-library/react": "13.3.0",
-        "babel-jest": "^27.5.1",
-        "eslint": "^8.13.0",
-        "eslint-plugin-react": "^7.29.4",
-        "jest": "^27.5.1"
+        "babel-jest": "27.5.1",
+        "eslint": "8.17.0",
+        "eslint-plugin-react": "7.30.0",
+        "jest": "27.5.1"
     }
 }
