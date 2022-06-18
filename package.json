@@ -13,7 +13,7 @@
         "@typescript-eslint/parser": "5.28.0",
         "@testing-library/react": "13.3.0",
         "babel-jest": "27.5.1",
-        "eslint": "8.17.0",
+        "eslint": "8.18.0",
         "eslint-plugin-react": "7.30.0",
         "jest": "27.5.1"
     }
